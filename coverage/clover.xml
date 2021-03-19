@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1616191052223" clover="3.2.0">
+  <project timestamp="1616191052223" name="All files">
+    <metrics statements="34" coveredstatements="33" conditionals="12" coveredconditionals="11" methods="10" coveredmethods="10" elements="56" coveredelements="54" complexity="0" loc="34" ncloc="34" packages="1" files="7" classes="7"/>
+    <file name="capatilizeLetters.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\capatilizeLetters.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+    <file name="cloneArray.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\cloneArray.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="fizzBuzz.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\fizzBuzz.js">
+      <metrics statements="10" coveredstatements="9" conditionals="8" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="10" type="cond" truecount="3" falsecount="1"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="8" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="11" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+    </file>
+    <file name="maxCharacter.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\maxCharacter.js">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="24" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="18" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="15" count="5" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+    <file name="reverse.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\reverse.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+    <file name="subtract.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\subtract.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
