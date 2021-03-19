@@ -7,8 +7,6 @@ function maxCharactor(str){
         charMap[letter] = charMap[letter] ? charMap[letter] + 1 : 1;
     } );
 
-
-
     for(let char in charMap){
         if(charMap[char] > maxNum){
             maxNum = charMap[char]
