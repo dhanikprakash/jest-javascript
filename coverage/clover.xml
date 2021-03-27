@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1616410601362" clover="3.2.0">
-  <project timestamp="1616410601362" name="All files">
-    <metrics statements="49" coveredstatements="47" conditionals="16" coveredconditionals="14" methods="12" coveredmethods="12" elements="77" coveredelements="73" complexity="0" loc="49" ncloc="49" packages="1" files="7" classes="7"/>
-    <file name="capatilizeLetters.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\capatilizeLetters.js">
+<coverage generated="1616865879283" clover="3.2.0">
+  <project timestamp="1616865879284" name="All files">
+    <metrics statements="51" coveredstatements="50" conditionals="18" coveredconditionals="16" methods="12" coveredmethods="12" elements="81" coveredelements="78" complexity="0" loc="51" ncloc="51" packages="1" files="7" classes="7"/>
+    <file name="capatilizeLetters.js" path="/Users/dhanikprakash/Documents/Dhanik/Study/jest-javascript/capatilizeLetters.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <line num="2" count="1" type="stmt"/>
       <line num="5" count="2" type="stmt"/>
       <line num="9" count="1" type="stmt"/>
     </file>
-    <file name="chunkArray.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\chunkArray.js">
+    <file name="chunkArray.js" path="/Users/dhanikprakash/Documents/Dhanik/Study/jest-javascript/chunkArray.js">
       <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
@@ -22,12 +22,12 @@
       <line num="16" count="1" type="stmt"/>
       <line num="18" count="1" type="stmt"/>
     </file>
-    <file name="cloneArray.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\cloneArray.js">
+    <file name="cloneArray.js" path="/Users/dhanikprakash/Documents/Dhanik/Study/jest-javascript/cloneArray.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="2" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
     </file>
-    <file name="fizzBuzz.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\fizzBuzz.js">
+    <file name="fizzBuzz.js" path="/Users/dhanikprakash/Documents/Dhanik/Study/jest-javascript/fizzBuzz.js">
       <metrics statements="10" coveredstatements="9" conditionals="8" coveredconditionals="7" methods="1" coveredmethods="1"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
@@ -40,7 +40,7 @@
       <line num="18" count="1" type="stmt"/>
       <line num="21" count="1" type="stmt"/>
     </file>
-    <file name="maxCharacter.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\maxCharacter.js">
+    <file name="maxCharacter.js" path="/Users/dhanikprakash/Documents/Dhanik/Study/jest-javascript/maxCharacter.js">
       <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
       <line num="2" count="2" type="stmt"/>
       <line num="3" count="2" type="stmt"/>
@@ -54,23 +54,25 @@
       <line num="17" count="2" type="stmt"/>
       <line num="20" count="1" type="stmt"/>
     </file>
-    <file name="reverse.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\reverse.js">
+    <file name="reverse.js" path="/Users/dhanikprakash/Documents/Dhanik/Study/jest-javascript/reverse.js">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <line num="3" count="2" type="stmt"/>
       <line num="4" count="2" type="stmt"/>
       <line num="8" count="1" type="stmt"/>
       <line num="11" count="1" type="stmt"/>
     </file>
-    <file name="sortArray.js" path="C:\Users\USER\Documents\GitHub\jest-javascript\sortArray.js">
-      <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
-      <line num="4" count="3" type="stmt"/>
-      <line num="6" count="3" type="stmt"/>
-      <line num="7" count="3" type="stmt"/>
-      <line num="9" count="12" type="stmt"/>
-      <line num="10" count="13" type="stmt"/>
-      <line num="14" count="0" type="stmt"/>
-      <line num="17" count="3" type="stmt"/>
+    <file name="sortArray.js" path="/Users/dhanikprakash/Documents/Dhanik/Study/jest-javascript/sortArray.js">
+      <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="7" count="4" type="stmt"/>
+      <line num="10" count="16" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="15" count="14" type="stmt"/>
       <line num="20" count="1" type="stmt"/>
+      <line num="23" count="4" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

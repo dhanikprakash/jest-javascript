@@ -13,3 +13,7 @@ test("should sort negative array", () => {
   expect(sortArray("4 -3 2 11")).toEqual("-3 2 4 11");
 });
 
+
+test("should throw error array", () => {
+  expect(sortArray("4 eyeagq3e£ 2 11")).toEqual("Error with sorting");
+});
